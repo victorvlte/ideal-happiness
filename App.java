@@ -18,9 +18,14 @@ public class App {
 
            System.out.println("....");
 
-           System.out.println(p);
+           System.out.println(p.toString());
            
            System.out.println(e1); 
+
+
+        Pessoa e2 = new Estudante(222, "Ricardo", "ADM");  
+        System.out.println(e2);
+
     }
 
     
