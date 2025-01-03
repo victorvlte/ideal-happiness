@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MODELO DADOS PROJETO SIP" id="D6A3327B-E184-3386-B8AD-DF91732DD9F0" version="3.5">
+<createdBy>vlte</createdBy>
+<createdTime>2024-05-08 00:52:23 UTC</createdTime>
+<ownerDesignName>MODELO DADOS PROJETO SIP</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D6A3327B-E184-3386-B8AD-DF91732DD9F0</designId>
+</OSDM_Design>
